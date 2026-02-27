@@ -1,6 +1,9 @@
 /dataset/
 .conda/
 .venv/
+.vscode
 .ipynb_checkpoints/
 __pycache__/
 
+/day5/step2/data/*.txt
+/day5/step4/data/**
